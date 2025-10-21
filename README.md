@@ -1,3 +1,5 @@
+**IMPORTANT NOTE: We used the "_25.stl " files in the international competition**
+
 🔹 Introduction
 
 This repository contains 3D models and STL files used for 3D printing parts of our WRO Future Engineers robot.
